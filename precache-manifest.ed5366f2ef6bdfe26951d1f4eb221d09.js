@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d110d64c8a4e5854c03cb8aa0a7f3e3f",
+    "revision": "925fd5564131e2774dbcf98c9a462f95",
     "url": "/JobsFromHome/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JobsFromHome/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "0a09e8e8d04fa8b7ef9e",
+    "revision": "d25b7c06f8d9086af180",
     "url": "/JobsFromHome/static/css/main.81eb5cab.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JobsFromHome/static/js/2.86e3913d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0a09e8e8d04fa8b7ef9e",
-    "url": "/JobsFromHome/static/js/main.d930b36c.chunk.js"
+    "revision": "d25b7c06f8d9086af180",
+    "url": "/JobsFromHome/static/js/main.bf520dcd.chunk.js"
   },
   {
     "revision": "f725b8ffead2dba68629",
