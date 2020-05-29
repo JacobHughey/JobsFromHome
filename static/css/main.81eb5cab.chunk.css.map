@@ -1,0 +1,1 @@
+{"version":3,"sources":["CustomNav.css"],"names":[],"mappings":"AAAA,UACI,UAAW,CACX,SAAU,CACV,YACJ","file":"main.81eb5cab.chunk.css","sourcesContent":[".nav-item {\r\n    height: 8em;\r\n    width: 8em;\r\n    padding: 0.5em;\r\n}"]}

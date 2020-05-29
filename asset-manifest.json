@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/JobsFromHome/static/css/main.81eb5cab.chunk.css",
+    "main.js": "/JobsFromHome/static/js/main.d930b36c.chunk.js",
+    "main.js.map": "/JobsFromHome/static/js/main.d930b36c.chunk.js.map",
+    "runtime-main.js": "/JobsFromHome/static/js/runtime-main.98299f73.js",
+    "runtime-main.js.map": "/JobsFromHome/static/js/runtime-main.98299f73.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/JobsFromHome/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.86e3913d.chunk.js": "/JobsFromHome/static/js/2.86e3913d.chunk.js",
+    "static/js/2.86e3913d.chunk.js.map": "/JobsFromHome/static/js/2.86e3913d.chunk.js.map",
+    "index.html": "/JobsFromHome/index.html",
+    "precache-manifest.f058378ac637cdc740ac8f7a9aa58358.js": "/JobsFromHome/precache-manifest.f058378ac637cdc740ac8f7a9aa58358.js",
+    "service-worker.js": "/JobsFromHome/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/JobsFromHome/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.81eb5cab.chunk.css.map": "/JobsFromHome/static/css/main.81eb5cab.chunk.css.map",
+    "static/js/2.86e3913d.chunk.js.LICENSE.txt": "/JobsFromHome/static/js/2.86e3913d.chunk.js.LICENSE.txt",
+    "static/media/conduent.jpg": "/JobsFromHome/static/media/conduent.8d464193.jpg",
+    "static/media/mod.png": "/JobsFromHome/static/media/mod.1b880ef5.png",
+    "static/media/wfh.jpg": "/JobsFromHome/static/media/wfh.618509cc.jpg",
+    "static/media/wsi.jpg": "/JobsFromHome/static/media/wsi.9780204c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98299f73.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.86e3913d.chunk.js",
+    "static/css/main.81eb5cab.chunk.css",
+    "static/js/main.d930b36c.chunk.js"
+  ]
+}
